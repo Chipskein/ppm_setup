@@ -1,6 +1,6 @@
 
 # ppm-setup
-Gerenciador de aúdios .ogg
+player de aúdios .ogg
 apenas Windows;
  Lê um Dir informado pelo usuario (C:\Home\Desktop\musics)
   escreve na tela todos os arquivos .ogg do dir na tela
