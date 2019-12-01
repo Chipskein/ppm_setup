@@ -1,10 +1,10 @@
 
 # ppm-setup
-//Gerenciador de aúdios .ogg
-//apenas Windows;
-// Lê um Dir informado pelo usuario (C:\Home\Desktop\musics)
-//  escreve na tela todos os arquivos .ogg do dir na tela
-// o usuario pode controlar as musicas utilizando
+Gerenciador de aúdios .ogg
+apenas Windows;
+ Lê um Dir informado pelo usuario (C:\Home\Desktop\musics)
+  escreve na tela todos os arquivos .ogg do dir na tela
+ o usuario pode controlar as musicas utilizando
  NAV{
   ARROW_UP
   ARROW_DOWN
